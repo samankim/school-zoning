@@ -1,4 +1,4 @@
 # school-zoning
 
-~TODO:~
+*TODO:*
 - Make figures prettier (ie scatter matrix labels are off)
